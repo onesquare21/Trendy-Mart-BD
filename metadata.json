@@ -1,0 +1,6 @@
+{
+  "name": "Flag Orbit",
+  "description": "Endless neon physics simulation featuring national flag balls colliding and bouncing in a glowing arena",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

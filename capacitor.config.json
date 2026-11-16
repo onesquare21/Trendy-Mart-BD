@@ -1,0 +1,23 @@
+{
+  "appId": "com.aistudio.flagorbit.xvyk",
+  "appName": "Flag Orbit",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#000000",
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "backgroundColor": "#000000"
+    },
+    "KeepAwake": {
+      "keepAwake": true
+    }
+  }
+}
